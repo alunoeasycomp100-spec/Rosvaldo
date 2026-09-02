@@ -1,0 +1,43 @@
+GraphicsWindow.Title = "desenho com o mouse"
+GraphicsWindow.Width = 800
+GraphicsWindow.Height = 600
+
+GraphicsWindow.MouseDown = MouseDown
+GraphicsWindow.MouseMove = MouseMove
+GraphicsWindow.MouseUp = MouseUp
+
+desenhando = "false"
+cor = "read"
+
+Sub MouseDown
+  desenhando = " True"
+ 
+If GraphicsWindow.MouseButton = "Left" Then
+  cor = "Red"
+Else
+  cor = "Green"
+EndIf
+cor = "Red"
+Else
+    cor = "Green" 
+EndIf
+  
+  xAnterior = GraphicsWindow.MouseX
+  YAnterior = GraphicsWindow.MouseY
+EndSub
+
+Sub MouseMOve 
+  If desenhando = "TRUE" then'
+    GraphicsWindow.PenColor = cor
+    GraphicsWindow.PenWidth = 30
+    
+    GraphicsWindow.DrawLine(xAnterior , YAnterior , GraphicsWindow.MouseX, GraphicsWindow.MouseY)
+    
+    xAnterior = GraphicsWindow.MouseX
+    YAnterior = GraphicsWindow.MouseY
+  EndIf
+EndSub
+
+Sub Mouseup
+  desenhando = "False"
+EndSub

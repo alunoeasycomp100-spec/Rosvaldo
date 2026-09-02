@@ -1,0 +1,12 @@
+GraphicsWindow.BackgroundColor = "Lime"
+
+For i = 1 To 10000 
+  GraphicsWindow.BrushColor = GraphicsWindow.GetRandomColor()
+  R = Math.GetRandomNumber(620) 
+  P = Math.GetRandomNumber(500) 
+  GraphicsWindow.FillEllipse(R, P, 22, 22)
+EndFor
+
+GraphicsWindow.BrushColor = "White"
+GraphicsWindow.FontSize = 30
+GraphicsWindow.DrawText(100, 50, "Lógica da Programação")

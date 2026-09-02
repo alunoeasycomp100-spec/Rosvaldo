@@ -1,0 +1,21 @@
+
+senha = 10 'variavel numero inteiro
+TextWindow.WriteLine("digite a senha: ")'escreva9" digite a senha")
+numero = TextWindow.ReadNumber() 'numero = pedir para digiar
+
+'enqunato numero diferente da senha
+While numero <> senha
+  TextWindow.WriteLine("senha errada!")'escreva("senha errada:")
+  TextWindow.WriteLine("digite a senha: ")'escreva("digite a senha")
+  numero = TextWindow.ReadNumber()'numero = pedir para digitar
+EndWhile 'fimenquanto
+
+If numero = senha Then 'se numero = senha então
+  TextWindow.WriteLine("correto!") 'escreva("correto")
+  EndIf 'fims
+
+
+
+
+
+

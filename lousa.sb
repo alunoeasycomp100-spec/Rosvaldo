@@ -1,0 +1,21 @@
+GraphicsWindow.Title = "desenho com o mouse" ' define o nome da janela
+GraphicsWindow.Width = 800 'largura da janela
+GraphicsWindow.Height = 600 ' altura da janela
+
+GraphicsWindow.BackgroundColor = "DarkGreen"
+
+GraphicsWindow.MouseMove = QuandoMouseSeMover 'associa o evendo de movimento do mouse a sub rotina
+
+Sub QuandoMouseSeMover
+  x = GraphicsWindow.MouseX 'armazeana a cordenada horiontal do mouse
+  y = GraphicsWindow.MouseY 'armazena a cordenada vertical do mouse
+  
+  
+  'desenha em vermelho ao clicar e arrastar com o botao esquerdo
+  If(Mouse.IsLeftButtonDown) Then
+    GraphicsWindow.BrushColor = "WHITE"
+    GraphicsWindow.FillEllipse(x,y,30,30)
+  EndIf
+  
+  'desenha em verde ao clicar e arrastar com o botao direito
+EndSub

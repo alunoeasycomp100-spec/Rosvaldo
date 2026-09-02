@@ -1,0 +1,14 @@
+TextWindow.WriteLine("digite a senha: ")
+senha = "abcd" 'variavel string
+tentativas = 0 
+While tentativas<> 3 
+  digitado = TextWindow.Read()
+  If digitado = senha Then
+    TextWindow.WriteLine(" você acertou a senha!")
+    'Program.End()
+  Else
+    tentativas = tentativas + 1 
+    TextWindow.WriteLine(" senha incorreta!")
+  EndIf
+  EndWhile
+  TextWindow.WriteLine(" excesso de tentativas")
