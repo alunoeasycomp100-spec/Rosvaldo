@@ -1,0 +1,10 @@
+C:\Users\Terminal\Documents\Rosvaldo\c#\aulas\aula.5\projetomediaaluno\mediaaluno\bin\Debug\mediaaluno.exe.config
+C:\Users\Terminal\Documents\Rosvaldo\c#\aulas\aula.5\projetomediaaluno\mediaaluno\bin\Debug\mediaaluno.exe
+C:\Users\Terminal\Documents\Rosvaldo\c#\aulas\aula.5\projetomediaaluno\mediaaluno\bin\Debug\mediaaluno.pdb
+C:\Users\Terminal\Documents\Rosvaldo\c#\aulas\aula.5\projetomediaaluno\mediaaluno\obj\Debug\mediaaluno.csproj.AssemblyReference.cache
+C:\Users\Terminal\Documents\Rosvaldo\c#\aulas\aula.5\projetomediaaluno\mediaaluno\obj\Debug\mediaaluno.frmcalculomedia.resources
+C:\Users\Terminal\Documents\Rosvaldo\c#\aulas\aula.5\projetomediaaluno\mediaaluno\obj\Debug\mediaaluno.Properties.Resources.resources
+C:\Users\Terminal\Documents\Rosvaldo\c#\aulas\aula.5\projetomediaaluno\mediaaluno\obj\Debug\mediaaluno.csproj.GenerateResource.cache
+C:\Users\Terminal\Documents\Rosvaldo\c#\aulas\aula.5\projetomediaaluno\mediaaluno\obj\Debug\mediaaluno.csproj.CoreCompileInputs.cache
+C:\Users\Terminal\Documents\Rosvaldo\c#\aulas\aula.5\projetomediaaluno\mediaaluno\obj\Debug\mediaaluno.exe
+C:\Users\Terminal\Documents\Rosvaldo\c#\aulas\aula.5\projetomediaaluno\mediaaluno\obj\Debug\mediaaluno.pdb
