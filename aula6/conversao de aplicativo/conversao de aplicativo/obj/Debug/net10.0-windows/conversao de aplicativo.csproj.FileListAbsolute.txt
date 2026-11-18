@@ -1,0 +1,18 @@
+C:\Users\Terminal\Documents\Rosvaldo\c#\aulas\aula6\conversao de aplicativo\conversao de aplicativo\bin\Debug\net10.0-windows\conversao de aplicativo.exe
+C:\Users\Terminal\Documents\Rosvaldo\c#\aulas\aula6\conversao de aplicativo\conversao de aplicativo\bin\Debug\net10.0-windows\conversao de aplicativo.deps.json
+C:\Users\Terminal\Documents\Rosvaldo\c#\aulas\aula6\conversao de aplicativo\conversao de aplicativo\bin\Debug\net10.0-windows\conversao de aplicativo.runtimeconfig.json
+C:\Users\Terminal\Documents\Rosvaldo\c#\aulas\aula6\conversao de aplicativo\conversao de aplicativo\bin\Debug\net10.0-windows\conversao de aplicativo.dll
+C:\Users\Terminal\Documents\Rosvaldo\c#\aulas\aula6\conversao de aplicativo\conversao de aplicativo\bin\Debug\net10.0-windows\conversao de aplicativo.pdb
+C:\Users\Terminal\Documents\Rosvaldo\c#\aulas\aula6\conversao de aplicativo\conversao de aplicativo\obj\Debug\net10.0-windows\conversao_de_aplicativo.frmprincipal.resources
+C:\Users\Terminal\Documents\Rosvaldo\c#\aulas\aula6\conversao de aplicativo\conversao de aplicativo\obj\Debug\net10.0-windows\conversao_de_aplicativo.Properties.Resources.resources
+C:\Users\Terminal\Documents\Rosvaldo\c#\aulas\aula6\conversao de aplicativo\conversao de aplicativo\obj\Debug\net10.0-windows\conversao de aplicativo.csproj.GenerateResource.cache
+C:\Users\Terminal\Documents\Rosvaldo\c#\aulas\aula6\conversao de aplicativo\conversao de aplicativo\obj\Debug\net10.0-windows\conversao de aplicativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Terminal\Documents\Rosvaldo\c#\aulas\aula6\conversao de aplicativo\conversao de aplicativo\obj\Debug\net10.0-windows\conversao de aplicativo.AssemblyInfoInputs.cache
+C:\Users\Terminal\Documents\Rosvaldo\c#\aulas\aula6\conversao de aplicativo\conversao de aplicativo\obj\Debug\net10.0-windows\conversao de aplicativo.AssemblyInfo.cs
+C:\Users\Terminal\Documents\Rosvaldo\c#\aulas\aula6\conversao de aplicativo\conversao de aplicativo\obj\Debug\net10.0-windows\conversao de aplicativo.csproj.CoreCompileInputs.cache
+C:\Users\Terminal\Documents\Rosvaldo\c#\aulas\aula6\conversao de aplicativo\conversao de aplicativo\obj\Debug\net10.0-windows\conversao de aplicativo.dll
+C:\Users\Terminal\Documents\Rosvaldo\c#\aulas\aula6\conversao de aplicativo\conversao de aplicativo\obj\Debug\net10.0-windows\refint\conversao de aplicativo.dll
+C:\Users\Terminal\Documents\Rosvaldo\c#\aulas\aula6\conversao de aplicativo\conversao de aplicativo\obj\Debug\net10.0-windows\conversao de aplicativo.pdb
+C:\Users\Terminal\Documents\Rosvaldo\c#\aulas\aula6\conversao de aplicativo\conversao de aplicativo\obj\Debug\net10.0-windows\conversao de aplicativo.genruntimeconfig.cache
+C:\Users\Terminal\Documents\Rosvaldo\c#\aulas\aula6\conversao de aplicativo\conversao de aplicativo\obj\Debug\net10.0-windows\ref\conversao de aplicativo.dll
+C:\Users\Terminal\Documents\Rosvaldo\c#\aulas\aula6\conversao de aplicativo\conversao de aplicativo\obj\Debug\net10.0-windows\conversa.6BFD8664.Up2Date
